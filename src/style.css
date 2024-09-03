@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.table{
+    border: 2px solid;
+    width: 45%;
+    min-height: 70vh;
+    margin: auto;
+    margin-top: 5rem;
+}
+.column{
+    display: flex;
+    gap: 6rem;
+}
+.rows{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+.row{
+    display: flex;
+    gap: 6rem;
+}
